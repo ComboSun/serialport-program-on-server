@@ -1,0 +1,42 @@
+D:\SerialPortService\SerialPortService\bin\Debug\SerialPortService.exe.config
+D:\SerialPortService\SerialPortService\bin\Debug\SerialPortService.exe
+D:\SerialPortService\SerialPortService\bin\Debug\SerialPortService.pdb
+D:\SerialPortService\SerialPortService\obj\Debug\SerialPortService.ProjectInstaller.resources
+D:\SerialPortService\SerialPortService\obj\Debug\SerialPortService.Service1.resources
+D:\SerialPortService\SerialPortService\obj\Debug\SerialPortService.csproj.GenerateResource.Cache
+D:\SerialPortService\SerialPortService\obj\Debug\SerialPortService.exe
+D:\SerialPortService\SerialPortService\obj\Debug\SerialPortService.pdb
+D:\SerialPortService for\SerialPortService\bin\Debug\SerialPortService.exe.config
+D:\SerialPortService for\SerialPortService\obj\Debug\SerialPortService.exe
+D:\SerialPortService for\SerialPortService\obj\Debug\SerialPortService.pdb
+D:\SerialPortService for\SerialPortService\bin\Debug\SerialPortService.exe
+D:\SerialPortService for\SerialPortService\bin\Debug\SerialPortService.pdb
+D:\SerialPortService for\SerialPortService\bin\Debug\log4net.dll
+D:\SerialPortService for\SerialPortService\obj\Debug\SerialPortService.csprojResolveAssemblyReference.cache
+D:\SerialPortService for\SerialPortService\obj\Debug\SerialPortService.ProjectInstaller.resources
+D:\SerialPortService for\SerialPortService\obj\Debug\SerialPortService.Service1.resources
+D:\SerialPortService for\SerialPortService\obj\Debug\SerialPortService.csproj.GenerateResource.Cache
+D:\SerialPortService1\SerialPortService\bin\Debug\SerialPortService.exe.config
+D:\SerialPortService1\SerialPortService\obj\Debug\SerialPortService.exe
+D:\SerialPortService1\SerialPortService\obj\Debug\SerialPortService.pdb
+D:\SerialPortService1\SerialPortService\bin\Debug\SerialPortService.exe
+D:\SerialPortService1\SerialPortService\bin\Debug\SerialPortService.pdb
+D:\SerialPortService1\SerialPortService\obj\Debug\SerialPortService.ProjectInstaller.resources
+D:\SerialPortService1\SerialPortService\obj\Debug\SerialPortService.Service1.resources
+D:\SerialPortService1\SerialPortService\obj\Debug\SerialPortService.csproj.GenerateResource.Cache
+D:\SerialPortService1\SerialPortService\obj\Debug\SerialPortService.csprojResolveAssemblyReference.cache
+D:\SerialPortService\SerialPortService\obj\Debug\SerialPortService.csprojResolveAssemblyReference.cache
+D:\我的程序\SerialPortService\SerialPortService\bin\Debug\SerialPortService.exe.config
+D:\我的程序\SerialPortService\SerialPortService\obj\Debug\SerialPortService.exe
+D:\我的程序\SerialPortService\SerialPortService\obj\Debug\SerialPortService.pdb
+D:\我的程序\SerialPortService\SerialPortService\bin\Debug\SerialPortService.exe
+D:\我的程序\SerialPortService\SerialPortService\bin\Debug\SerialPortService.pdb
+D:\我的程序\SerialPortService\SerialPortService\obj\Debug\SerialPortService.ProjectInstaller.resources
+D:\我的程序\SerialPortService\SerialPortService\obj\Debug\SerialPortService.Service1.resources
+D:\我的程序\SerialPortService\SerialPortService\obj\Debug\SerialPortService.csproj.GenerateResource.Cache
+D:\我的程序\CZsp服务端\SerialPortService\bin\Debug\SerialPortService.exe.config
+D:\我的程序\CZsp服务端\SerialPortService\obj\Debug\SerialPortService.exe
+D:\我的程序\CZsp服务端\SerialPortService\obj\Debug\SerialPortService.pdb
+D:\代码\CZsp服务端\SerialPortService\bin\Debug\SerialPortService.exe.config
+D:\代码\CZsp服务端\SerialPortService\obj\Debug\SerialPortService.exe
+D:\代码\CZsp服务端\SerialPortService\obj\Debug\SerialPortService.pdb
